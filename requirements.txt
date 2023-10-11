@@ -1,2 +1,5 @@
 # requirements.txt
+pip install h5py
+pip install typing-extensions
+pip install wheel
 snowflake-connector-python
