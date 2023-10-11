@@ -35,3 +35,4 @@ streamlit.dataframe(fruityvice_normalized)
 
 
 import snowflake.connector
+streamlit.text('🥑🍞TEST Toast') 
